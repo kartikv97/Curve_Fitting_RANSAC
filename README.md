@@ -7,6 +7,21 @@ Consensus) on two datasets:
 - Dataset 2 - With Outliers
 
 ---
+## Instructions
+
+### Dependencies
+- python3
+- numpy==1.18.0
+- matplotlib
+- pandas
+
+### Run using Command Line
+```
+git clone https://github.com/kartikv97/Curve_Fitting_RANSAC.git
+cd Curve_Fitting_RANSAC/src
+python demo.py 
+```
+---
 ## Results
 
 ### Input Dataset
