@@ -10,12 +10,12 @@ Consensus) on two datasets:
 ## Results
 
 ### Input Dataset
-![Input]("./output/input.PNG")
+![Input]("https://github.com/kartikv97/Curve_Fitting_RANSAC/blob/master/output/input.PNG")
 
 ### LMSE Curve Fit
-![LMSE]("./output/LMSE.PNG")
+![LMSE]("https://github.com/kartikv97/Curve_Fitting_RANSAC/blob/master/output/LMSE.PNG")
 
 ### RANSAC Curve Fit
-![Data 1]("./output/ransac_1.PNG")
+![Data 1]("https://github.com/kartikv97/Curve_Fitting_RANSAC/blob/master/output/ransac_1.PNG")
 
-![Data 2]("./output/ransac_2.PNG")
+![Data 2]("https://github.com/kartikv97/Curve_Fitting_RANSAC/blob/master/output/ransac_2.PNG")
